@@ -34,7 +34,10 @@ public class Main1 {
 
         //more varibale and litrals in java 
         //  identifire -> there are some word we can,t use them to name a variable 
+<<<<<<< HEAD
         System.out.println("literals and variable in java ");
+=======
+>>>>>>> c4e1fa3f58796fae6ffecfee32e16bcf3e874e3d
         int m=23;
         int n=234;
         System.out.println(m+"and"+n);
@@ -77,7 +80,11 @@ public class Main1 {
         // cin.nextByte()
         // cin.nextLine()  -> input space also 
 
+<<<<<<< HEAD
         //cin.nextLine(); 
+=======
+        cin.nextLine(); 
+>>>>>>> c4e1fa3f58796fae6ffecfee32e16bcf3e874e3d
         System.out.println("enter you name ");
         String name;
         name=cin.nextLine();
