@@ -30,7 +30,5 @@ public class First2 {
         System.out.println();
 
 
-
-
     }
 }
