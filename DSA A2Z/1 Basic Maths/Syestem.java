@@ -1,0 +1,6 @@
+/**
+ * Syestem
+ */
+public class Syestem {
+
+}

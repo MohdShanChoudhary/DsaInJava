@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class countinterger {
+public class countinterger1 {
     public static void main(String[] args ){
         System.out.println("Enter the no.");
         Scanner cin =new Scanner(System.in);
